@@ -28,7 +28,7 @@ Insgesamt können somit maximal 100 Punkte erreicht werden, die Umrechnung in ei
 In dieser Aufgabe arbeiten Sie mit Daten aus dem [OpenData-Portal des Deutschen Wetterdienstes](https://www.dwd.de/DE/leistungen/opendata/opendata.html), um zu sehen, wie sich mit der Zeit die Temperaturen an diversen Messstationen verändert haben.
 
 Sie können die historischen Temperaturdaten der letzten Jahre [hier](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/historical/) als zip-Dateien herunterladen.
-Auf den Seiten des DWD finden Sie auch eine [Beschreibung des Formats der Datendateien](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/BESCHREIBUNG_obsgermany-climate-daily-kl_de.pdf) sowie eine [Liste der Stationsnummern](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/historical/KL_Tageswerte_Beschreibung_Stationen.txt). Zum Testen können Sie auch die Datei "testdata.txt" aus dem data-Ordner in diesem Repository verwenden.
+Auf den Seiten des DWD finden Sie auch eine [Beschreibung des Formats der Datendateien](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/BESCHREIBUNG_obsgermany-climate-daily-kl_de.pdf) sowie eine [Liste der Stationsnummern](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/historical/KL_Tageswerte_Beschreibung_Stationen.txt). Zum Testen können Sie auch die Datei "test_data.txt" in diesem Repository verwenden.
 
 Endziel dieser Aufgabe ist es, dass Sie aus der Datendatei die Mindest-, Maximal- sowie Durchschnittstemperaturen lesen und zwischen zwei Jahren einen Vergleich erstellen.
 
