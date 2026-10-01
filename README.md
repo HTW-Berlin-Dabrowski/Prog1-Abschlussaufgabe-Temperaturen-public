@@ -4,12 +4,11 @@ Herzlichen Glückwunsch, Sie haben es fast durch Programmierung 1 geschafft - hi
 
 ## Abgabe
 
-Sie können die Lösung auf drei Arten abgeben:
+Die Abgabe erfolgt über Moodle. Sie müssen in Moodle fristgerecht:
 
-- Falls Sie schon Erfahrung mit git haben, können Sie das Repository forken, den fork auf private schalten, Ihre Lösung dort verwalten und mich zu dem repo einladen. Die Antwort auf die Analyse-Frage am Ende tragen Sie in diesem Fall bitte einfach am Ende der README.md ein. Ich werde dann für die Benotung den letzten commit mit Datum vor dem Ende des 1. Prüfungszeitraums verwenden.
-- Sie können auch den *kompletten* src-Ordner packen (zip, tar, tar.gz - was Ihnen am liebsten ist) und mir vor Ende des 1. Prüfungszeitraums abgeben, indem Sie:
-  - Die Datei in Moodle als Abgabe hochladen. Tragen Sie in diesem Fall Ihre Antwort auf die Analyse-Frage in das Freitextfeld der Abgabe ein.
-  - Mir die Datei per Mail *von Ihrem HTW-Mail-Account aus* schicken, in dem Text der Mail soll dann die Antwort auf die Analyse-Frage stehen. Bitte nutzen Sie diese Möglichkeit nur als Backup für den Fall, dass aus irgendeinem Grund die Abgabe per Moodle bei Ihnen nicht funktioniert!
+- Die Datei TemperatureDataPoint.java hochladen
+- Die Datei TemperatureTimeSeries.java hochladen
+- Im Freitextfeld die Anwendungsfragen beantworten
 
 *VORSICHT* Das ist eine Prüfungsaufgabe, bei der es einige klare Regeln gibt, von denen ich nicht abweichen werde. Die Prüfung gilt auf *jeden Fall* als *nicht bestanden*, falls:
 - Sie die Aufgabe auf eine andere Art abgeben, als die 3 oben genannten Möglichkeiten (dazu zählt auch, wenn Sie mir beispielsweise den Code einfach in die Mail copy-pasten - das würde als "nicht korrekt abgegeben, nicht bestanden" gelten)
